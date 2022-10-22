@@ -15,7 +15,7 @@ spec:
         app: valida-senha
     spec:
       containers:
-        - image: robsonrossan/valida:v1
+        - image: robsonrossan/valida-senha:v1
           name: valida-senha
 ---   
 apiVersion: v1
